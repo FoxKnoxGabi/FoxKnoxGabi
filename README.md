@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FoxKnoxGabi
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning the c lenguage
+- 🌱 I’m currently learning the c language
 - 💞️ I’m looking to collaborate on making new techs
 
 <!---
